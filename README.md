@@ -1,1 +1,1 @@
-# Notas-del-curso-M-todos-Computacionales
+# Notas del curso Métodos Computacionales
