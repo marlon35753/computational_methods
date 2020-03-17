@@ -1,1 +1,1 @@
-# Notas del curso Métodos Computacionales
+# Notas del curso métodos computacionales
